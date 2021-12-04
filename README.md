@@ -102,5 +102,8 @@ Execute the program
 
 
 ~~~
-# OUPUT![GitHub Logo](/TIMETABLE WEB/logo.png)![TIME TABLE](https://user-images.githubusercontent.com/95198708/144712651-04001c7a-64c3-4560-9e98-a85aab8b052b.png)
+# OUPUT
+![TIME TABLE](https://user-images.githubusercontent.com/95198708/144713168-222683ba-be8c-4fd1-b1d9-65af06a10d16.png)
+
+
 

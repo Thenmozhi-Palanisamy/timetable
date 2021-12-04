@@ -102,4 +102,4 @@ Execute the program
 
 
 ~~~
-# OUPUT![GitHub Logo](/TIMETABLE WEB.png/logo.png)
+# OUPUT![GitHub Logo](/TIMETABLE WEB/logo.png)
